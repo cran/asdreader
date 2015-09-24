@@ -1,0 +1,13 @@
+2c2a3f9ca16477388b200015aa755d6f *DESCRIPTION
+9dc198cd4d64323908093c1332ce7b3d *NAMESPACE
+220fd969cd21ee1545cef819ab19de16 *R/asdreader.r
+8e364880c3165c6b30fa1b1a8ba9a0ef *R/data.r
+de0030a4bdc133f224b3513cdf183749 *R/get-metadata.r
+9ddc6edf275776fb1ae0842e7ba78963 *R/get-spectrum.r
+760f823a779907b23e1242bd65b9a308 *README.md
+a549d825417fc5e66ffdefb34df1cc76 *inst/extdata/soil.asd
+d185bc2812e0b3ec80913d0a39e2bc78 *man/asd_file.Rd
+71c780c2596a7d00a44ef213daacafa5 *man/asdreader.Rd
+030647dc60ba7d4adfec9c72d9ab035f *man/get_metadata.Rd
+a04ae7397a6c689ab05cc85cdaa2f817 *man/get_spectra.Rd
+5e311f72fb805b8dee9b95b2ec425e6b *man/soil.asd.Rd
