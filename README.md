@@ -1,10 +1,13 @@
+[![Travis-CI Build Status](https://travis-ci.org/pierreroudier/asdreader.svg?branch=master)](https://travis-ci.org/pierreroudier/asdreader)
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/asdreader)](http://cran.r-project.org/web/packages/asdreader)
+
 # asdreader
 
 Reading ASD Binary Files in R
 
 ## Scope
 
-This package implements a simple reader for spectroscopy data collected using ASD (now PAN Analytics, Inc.) visible near-infrared spectrometers, and stored using the ASD format (which is documented [here](http://support.asdi.com/Document/Documents.aspx)).
+This package implements a simple reader for spectroscopy data collected using ASD (now PAN Analytics, Inc.) visible near-infrared spectrometers, and stored using the ASD format (which is documented [here](http://support.asdi.com/Document/Viewer.aspx?id=95)).
 
 The spectra can be extracted from the ASD file as raw (DN),
 white reference, radiance, or reflectance. Additionally, the metadata information contained 
